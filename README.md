@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/michaelagbiaowei/wordpress-continuous-integration-and-deployment/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/michaelagbiaowei/wordpress-continuous-integration-and-deployment/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Benedicta-Onyekwere/Wordpress-Continuous-Integration-and-Deployment/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Benedicta-Onyekwere/Wordpress-Continuous-Integration-and-Deployment/tree/main)
 
 This repository contains the scripts for a CI/CD pipeline that deploys a WordPress application. The pipeline uses CircleCI to automate the following steps:
 
@@ -23,7 +23,7 @@ The primary goal of this project will be to accomplish the following:
 
 - Effectively utilize centralized structured logging to identify and diagnose critical server errors.
 
-To learn more about the deployment stages of the wordpress application, see the detailed ([instructions directory](https://github.com/michaelagbiaowei/wordpress-continuous-integration-and-deployment/tree/main/instructions))
+To learn more about the deployment stages of the wordpress application, see the detailed ([instructions directory](instructions))
 
 ## Built With
 
